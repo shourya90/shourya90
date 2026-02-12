@@ -15,5 +15,5 @@ You can click the Preview link to take a look at your changes.
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-![Discord](https://img.shields.io/badge/Discord-shouryasingh-%235865F2?style=for-the-badge&logo=discord&logoColor=white)
+[![Discord](https://img.shields.io/badge/Discord-shouryasingh-%235865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/shouryasingh)
 

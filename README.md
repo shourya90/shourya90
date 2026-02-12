@@ -2,7 +2,7 @@
 - 👀 I’m interested in c# and js projects
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on and c# and js paid project
-- 📫 How to reach me on discord >> shourya#2664
+- 📫 How to reach me on discord >> shouryasingh
 
 <!---
 shourya90/shourya90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
